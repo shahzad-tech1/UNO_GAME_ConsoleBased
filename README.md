@@ -10,6 +10,5 @@ Controlling game logic using fundamental concepts like loops and conditional sta
 
 <br>
 Author - Shahzad Ahmad
-
 <br>
 
